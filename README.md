@@ -4,6 +4,12 @@ DrugSafe AI is a machine learning–powered system that predicts potential drug-
 
 ---
 
+## 🚀 Live Demo
+Access the deployed app here:
+👉 https://drugsafe-ai.onrender.com
+
+---
+
 ## 🚨 Problem Statement
 
 Drug-drug interactions (DDIs) can lead to severe health risks, including reduced drug effectiveness or harmful side effects. Identifying these interactions manually is complex and error-prone.

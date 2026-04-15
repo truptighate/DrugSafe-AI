@@ -119,3 +119,6 @@ if __name__ == '__main__':
     result = predict_interaction('Carboplatin', 'Telbivudine')
     import json
     print(json.dumps(result, indent=2))
+
+print("BASE_DIR:", BASE_DIR)
+print("FILES:", os.listdir(BASE_DIR))
